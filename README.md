@@ -14,12 +14,12 @@ User Authentication: Secure login and sign-up for users.
 #Tech Stack
 
 Frontend: React.js
+
 Backend: Node.js with Express.js
 Database: MongoDB
 Authentication: JSON Web Token (JWT)
 
 #Contributions
-
 Contributions are welcome! Feel free to open a pull request or submit an issue for suggestions or improvements.
 
 #Home_page
@@ -27,6 +27,7 @@ Contributions are welcome! Feel free to open a pull request or submit an issue f
 
 
 #Login
+
 ![image](https://github.com/user-attachments/assets/42944340-cdb8-4792-99f9-1fd92221fa98)
 
 
