@@ -12,12 +12,14 @@ Task Management: Create, assign, and track tasks within groups.
 User Authentication: Secure login and sign-up for users.
 
 #Tech Stack
+
 Frontend: React.js
 Backend: Node.js with Express.js
 Database: MongoDB
 Authentication: JSON Web Token (JWT)
 
 #Contributions
+
 Contributions are welcome! Feel free to open a pull request or submit an issue for suggestions or improvements.
 
 #Home_page
